@@ -3,6 +3,7 @@
 Ember layout library packaged for the rails asset pipeline. 
 
 Original package came from https://github.com/ghempton/ember-layout
+
 Commit 678e1b5137ec1962b6e00eefad261631ca5b8c09
 
 ## Installation
